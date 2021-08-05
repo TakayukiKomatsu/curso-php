@@ -17,13 +17,13 @@
   </header>
 
   <nav class="navigation">
-    <a href=<?= "/{$_GET['dir']}/{$_GET['dir']}.php" ?> class="green">Sem formatação</a>
+    <a href=<?= "/{$_GET['dir']}/{$_GET['file']}.php" ?> class="green">Sem formatação</a>
     <a href="index.php" class="red">Voltar</a>
   </nav>
   <main class="main">
     <div class="content">
       <?php
-      include "{$_GET['dir']}/{$_GET['dir']}.php"
+      include "{$_GET['dir']}/{$_GET['file']}.php"
       //include($_GET['dir'] . '/' . $_GET['file'] . '.php')
       //include(__DIR__ . "{$_GET['dir']}/{$_GET['dir']}.php")
       ?>
