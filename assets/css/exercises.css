@@ -7,18 +7,34 @@ body.exercise {
 		'footer';
 }
 
-.header {
-	grid-area: header;
-}
-
 .navigation {
 	grid-area: navigation;
+
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+
+	background: #555;
+}
+
+.navigation > a {
+	text-decoration: none;
+	color: #fff;
+	font-weight: 300;
+	font-size: 1.3rem;
+	background-color: #2196f3;
+	padding: 5px 10px;
+	margin-right: 10px;
+}
+
+.navigation a.green {
+	background: #4caf50;
+}
+
+.navigation a.red {
+	background: #f44336;
 }
 
 .main {
-	grid-area: main;
-}
-
-.footer {
-	grid-area: footer;
+	height: calc(100vh - 240px);
 }
