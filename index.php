@@ -21,75 +21,9 @@
 					<h3>Módulo 01 - Básico</h3>
 					<ul>
 						<li><a href="exercise.php?dir=teste&file=teste">Exercício A</a></li>
-						<li><a href="#">Exercício B</a></li>
-						<li><a href="#">Exercício C</a></li>
 					</ul>
 				</div>
 
-				<div class="module red">
-					<h3>Módulo 02 - Básico</h3>
-					<ul>
-						<li><a href="#">Exercício A</a></li>
-						<li><a href="#">Exercício B</a></li>
-						<li><a href="#">Exercício C</a></li>
-					</ul>
-				</div>
-				<div class="module blue">
-					<h3>Módulo 03 - Básico</h3>
-					<ul>
-						<li><a href="#">Exercício A</a></li>
-						<li><a href="#">Exercício B</a></li>
-						<li><a href="#">Exercício C</a></li>
-					</ul>
-				</div>
-				<div class="module purple">
-					<h3>Módulo 04 - Básico</h3>
-					<ul>
-						<li><a href="#">Exercício A</a></li>
-						<li><a href="#">Exercício B</a></li>
-						<li><a href="#">Exercício C</a></li>
-					</ul>
-				</div>
-				<div class="module orange">
-					<h3>Módulo 05 - Básico</h3>
-					<ul>
-						<li><a href="#">Exercício A</a></li>
-						<li><a href="#">Exercício B</a></li>
-						<li><a href="#">Exercício C</a></li>
-					</ul>
-				</div>
-				<div class="module darkGreen">
-					<h3>Módulo 06 - Básico</h3>
-					<ul>
-						<li><a href="#">Exercício A</a></li>
-						<li><a href="#">Exercício B</a></li>
-						<li><a href="#">Exercício C</a></li>
-					</ul>
-				</div>
-				<div class="module darkRed">
-					<h3>Módulo 07 - Básico</h3>
-					<ul>
-						<li><a href="#">Exercício A</a></li>
-						<li><a href="#">Exercício B</a></li>
-						<li><a href="#">Exercício C</a></li>
-					</ul>
-				</div>
-				<div class="module darkBlue">
-					<h3>Módulo 08 - Básico</h3>
-					<ul>
-						<li><a href="#">Exercício A</a></li>
-						<li><a href="#">Exercício B</a></li>
-						<li><a href="#">Exercício C</a></li>
-					</ul>
-				</div>
-				<div class="module darkPurple">
-					<h3>Módulo 09 - Básico</h3>
-					<ul>
-						<li><a href="#">Exercício A</a></li>
-						<li><a href="#">Exercício B</a></li>
-						<li><a href="#">Exercício C</a></li>
-					</ul>
-				</div>
 			</nav>
 		</div>
 	</main>
