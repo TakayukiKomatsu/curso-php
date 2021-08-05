@@ -24,6 +24,8 @@
 						<li><a href="exercise.php?dir=basico&file=html">Integração HTML</a></li>
 						<li><a href="exercise.php?dir=basico&file=css">Integração CSS</a></li>
 						<li><a href="exercise.php?dir=basico&file=comentarios">Comentários PHP</a></li>
+						<li><a href="exercise.php?dir=basico&file=desafio">Desafio 1</a></li>
+
 					</ul>
 				</div>
 
