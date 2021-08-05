@@ -1,0 +1,24 @@
+body.exercise {
+	grid-template-rows: 120px 60px 1fr 60px;
+	grid-template-areas:
+		'header'
+		'navigation'
+		'main'
+		'footer';
+}
+
+.header {
+	grid-area: header;
+}
+
+.navigation {
+	grid-area: navigation;
+}
+
+.main {
+	grid-area: main;
+}
+
+.footer {
+	grid-area: footer;
+}
