@@ -61,6 +61,18 @@ body {
 	box-shadow: 0px 0px 25px 0px rgba(0, 0, 0, 0.2);
 }
 
+/* modules */
+
+.modules {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+
+.module {
+}
+
+/* footer */
 .footer {
 	grid-area: footer;
 	background: #fff;
