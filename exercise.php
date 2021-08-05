@@ -14,6 +14,11 @@
     <h1>Curso PHP</h1>
     <h2>Visualização do Exercício</h2>
   </header>
+
+  <nav class="navigation">
+    <a href="#" class="green">Sem formatação</a>
+    <a href="index.php" class="red">Voltar</a>
+  </nav>
   <main class="main">
     <div class="content">
 
