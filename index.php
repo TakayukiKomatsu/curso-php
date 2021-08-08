@@ -25,9 +25,16 @@
 						<li><a href="exercise.php?dir=basico&file=css">Integração CSS</a></li>
 						<li><a href="exercise.php?dir=basico&file=comentarios">Comentários PHP</a></li>
 						<li><a href="exercise.php?dir=basico&file=desafio">Desafio 1</a></li>
-
 					</ul>
 				</div>
+
+				<div class="module red">
+					<h3>Módulo 02 - Tipos</h3>
+					<ul>
+						<li><a href="exercise.php?dir=tipos&file=int">Tipo inteiro</a></li>
+					</ul>
+				</div>
+
 
 			</nav>
 		</div>
