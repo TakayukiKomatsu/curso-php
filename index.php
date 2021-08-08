@@ -32,6 +32,7 @@
 					<h3>Módulo 02 - Tipos</h3>
 					<ul>
 						<li><a href="exercise.php?dir=tipos&file=int">Tipo inteiro</a></li>
+						<li><a href="exercise.php?dir=tipos&file=float">Tipo float</a></li>
 					</ul>
 				</div>
 
